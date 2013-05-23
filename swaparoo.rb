@@ -2,7 +2,10 @@
 # $Revision: 01 $
 # Meterpreter Swaparoo - Windows Backdoor Method (all Windows versions)
 # Authors: Un0wn_X & Hood3dRob1n
-# First published on Intern0t by Un0wn_X https://forum.intern0t.org/general-hacking-discussions/4637-backdoor-windows-8-7-vista.html
+# E-mail: unownsec@gmail.com
+# Follow @UnownSec
+# website: http://unownsec.blogspot.com | http://kaoticcreations.blogspot.com/
+# This was first pulished by Un0wn_X in Intern0t https://forum.intern0t.org/general-hacking-discussions/4637-backdoor-windows-8-7-vista.html
 ################## Variable Declarations ##################
 session = client #Our victim session object we will work with
 #Basic Arguments user can provide when running meterpreter script
