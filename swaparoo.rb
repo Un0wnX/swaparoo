@@ -6,6 +6,7 @@
 # Follow @UnownSec
 # website: http://unownsec.blogspot.com | http://kaoticcreations.blogspot.com/
 # This was first pulished by Un0wn_X in Intern0t https://forum.intern0t.org/general-hacking-discussions/4637-backdoor-windows-8-7-vista.html
+# PoC Video: http://www.youtube.com/watch?v=fQna7LCw81Y
 ################## Variable Declarations ##################
 session = client #Our victim session object we will work with
 #Basic Arguments user can provide when running meterpreter script
